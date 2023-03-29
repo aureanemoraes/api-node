@@ -1,0 +1,13 @@
+{
+  "name": "projeto",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Projeto do primeiro módulo do IGNITE - NODEJS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "Aureane Moraes",
+  "license": "ISC"
+}
